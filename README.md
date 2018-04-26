@@ -1,5 +1,5 @@
 # ML_Resources
-* [Inspiring Answers](#Inspiring-Answers)
+* [Inspiring Answers](#inspiring-answers)
 * [Best Courses](#best-courses)
 * [Best Blogs](#best-blogs)
 * [Best Books](#best-books)
@@ -17,21 +17,23 @@
 
 ## Best Blogs
 
-* [Denny Britz](http://www.wildml.com/)
-* [Machine Learning Mastery](http://machinelearningmastery.com/blog/)
+* [Denny Britz](http://www.wildml.com)
+* [Machine Learning Mastery](http://machinelearningmastery.com/blog)
 * [Anujdutt](https://anujdutt9.github.io)
 * [Arthur Juliani](https://medium.com/@awjuliani)
 * [Math Blog](http://www.inference.vc)
 * [Trask](http://iamtrask.github.io)
-* [Andrej Karpathy](http://karpathy.github.io/)
-* [Berkeley AI Research](http://bair.berkeley.edu/blog/)
+* [Andrej Karpathy](http://karpathy.github.io)
+* [Berkeley AI Research](http://bair.berkeley.edu/blog)
 * [KDnuggets](https://www.kdnuggets.com/)
-* [Analyticsvidhya](https://www.analyticsvidhya.com/)
-* [Adit Deshpande](https://adeshpande3.github.io/)
+* [Analyticsvidhya](https://www.analyticsvidhya.com)
+* [Adit Deshpande](https://adeshpande3.github.io)
 
 
 ## Inspiring Answers
 * [Andrew NG Quora](https://www.quora.com/profile/Andrew-Ng)
-*
+
+## Best Books
+* [Deep Learning Book](http://www.deeplearningbook.org)
 
 
